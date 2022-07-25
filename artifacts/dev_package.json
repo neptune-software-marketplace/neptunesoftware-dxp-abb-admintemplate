@@ -1,0 +1,47 @@
+{
+	"id": "9066F9C7-190C-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-25T13:00:39.713Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-admintemplate",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-admintemplate",
+	"description": null,
+	"ver": "22.7.25.131",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "24C999FA-9A93-4D4B-B20E-56ABDECF6B08",
+			"ver": "22.7.25.150",
+			"application": "admin",
+			"title": "UTIL",
+			"description": "Admin Template"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
